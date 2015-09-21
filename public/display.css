@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.debug { 
+  border: 1px dotted red;
+}

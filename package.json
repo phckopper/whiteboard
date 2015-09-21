@@ -1,0 +1,24 @@
+{
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phckopper/whiteboard.git"
+  },
+  "author": "Pedro Henrique Kopper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phckopper/whiteboard/issues"
+  },
+  "homepage": "https://github.com/phckopper/whiteboard#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "node-uuid": "^1.4.3",
+    "socket.io": "^1.3.7"
+  }
+}
